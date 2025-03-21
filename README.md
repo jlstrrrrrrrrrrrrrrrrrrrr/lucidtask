@@ -1,0 +1,1 @@
+Known Issue: The formula evaluation does not execute the calculation if there isn't a tag added last (eg.: tag + 2 / tag + 4). Unfortunately, I noticed late and did not have the time to fix before deploying it.
